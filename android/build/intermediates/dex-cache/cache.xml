@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_834a63c504cee1c073cf9c420dce48766446e7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1a46f5910ad314759625657cbd2798e6d17a1835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.51.0_b9d24b9a4bf0c8151a70ad52e787acc0d833c29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\hlj27\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_64ff0f6b32c78af027d8a7a2d501cd356a67141a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_f6612fe530f9f98214a9dc9a26b08c1829b07add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d00d992b3631f390dc613e949b12bec589beeb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_db7f12ce05b3572c7965dbf4e5f8e84b3a1bc5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_1603ad6b27aaf40e5d2e32e1aec40137290e77db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_62bf4e085a4ddddefe65d3f18eb4d6ee1adb57c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3f1ed4df7f2b149d11f8b722969894d9826a7de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7fee67617f672150fcb4f9a8c12a87355086d153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_d95583f82b2432254143ac1212963399cb21eb5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_f2be2cbc28848e02e447dd87763cb3397f50afe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_17e175c78d78b82b0ce2502a5b7b5b8228c6cb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_1f81c52e05e95d88d4582f0b64b9f7e7d1f80403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_2e21f52a727d23fb2a9ecf457e1aee3f89b6ff17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_afed29a938228e0acd7d952d851344d03d20114f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_779c1dda59ce60899927d757dcf62c94764d0211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_4899092df3bfc115503d9f92bdc0c6cf7f7d14e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hlj27\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_b02716ba6fd46b5685d3c6984957eede3802b445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\todolist\react-native-redux-todolist\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_cfb1e91c6b193811c3084c6e39a395e2b8d6c164.jar" />
+    </item>
+
+</items>
